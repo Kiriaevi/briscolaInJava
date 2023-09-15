@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kiriaevi
+ *
+ */
+module Briscola {
+}
